@@ -1,0 +1,3 @@
+reportlab==4.0.4
+Pillow
+tkcalendar==1.6.1
